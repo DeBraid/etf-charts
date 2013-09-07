@@ -26,6 +26,8 @@ symbols.each do |symbol|
  f.puts("<p>  " + symbol.in_html + "  </p>")
 end
 
+#TO DO: pagination, methods for dropping broken charts.
+
 # etfs.each do |etf|
 #   #   if ticker not found
 #   #   then do nothing
