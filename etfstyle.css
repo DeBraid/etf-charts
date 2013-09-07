@@ -1,0 +1,45 @@
+h1 {
+  font: bold 330%/100% "Lucida Grande";
+  font-size: 75px;
+  text-shadow: 2px 2px black;
+  position: relative;
+}
+
+h1 span {
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 31px;
+}
+
+body {
+  font-size: 20px;
+  color: crimson;
+  background-color: #c1a9a9;
+  text-align: justify;
+
+}
+
+.list {
+  background-color: #c2ccc7;
+  float:left;
+  width: 350px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 50px 25px 50px;
+  border-top: 2px dashed;
+  
+
+}
+
+.list img {
+
+}
+
+.list p {
+  font-family: Helvetica;
+  border-top: 1px black solid; 
+  width: 300px;
+
+}
